@@ -30,6 +30,7 @@
    <artifactId>problem2</artifactId>
    <version>0.0.1-SNAPSHOT</version>
    <scope>system</scope> 
+        <!--    <systemPath>${basedir}/MidTermJar/problem2-0.0.1-SNAPSHOT.jar</systemPath> -->
    <systemPath>C:\Users\User\Desktop\새 폴더 (3)\201911283-JeongHoeGeun\MidTermJar/problem2-0.0.1-SNAPSHOT.jar</systemPath>
  </dependency>
  
